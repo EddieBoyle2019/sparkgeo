@@ -2,7 +2,7 @@
 Python exercise for Sparkgeo
 
 ```console
-foo@bar:~$ whoami
+foo@bar:~$ python sparkgeo.py
 foo
 ```
 
