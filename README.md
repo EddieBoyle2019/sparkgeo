@@ -2,8 +2,7 @@
 Python exercise for Sparkgeo
 
 ```console
-foo@bar:~$ python sparkgeo.py
-foo
+$ python sparkgeo.py
 ```
 
 requires geopandas
